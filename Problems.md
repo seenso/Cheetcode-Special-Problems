@@ -1,6 +1,7 @@
 # Cheetcode Special Problems
 
 ## [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+------
 ```
 Given a string s, determine if it is a palindrome, 
 considering only alphanumeric characters and ignoring cases.
@@ -20,11 +21,15 @@ Constraints
   s consists only of printable ASCII characters.
 ```
 
-```javasript
+```javascript
+function isPalindrome(s) {
+  
+}
 ```
 
 
 ## [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+------
 ```
 Given a non-empty string s, you may delete at most one character. 
 Judge whether you can make it a palindrome.
@@ -40,11 +45,12 @@ Example 2
   Note: The string will only contain lowercase characters a-z. The maximum length of the string is 50000.
 ```
 
-```javasript
+```javascript
 ```
 
 
 ## [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+------
 ```
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
@@ -63,11 +69,12 @@ Constraints
   -104 <= nums[i] <= 104
 ```
 
-```javasript
+```javascript
 ```
 
 
 ## [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+------
 ```
 Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.
 
@@ -106,11 +113,12 @@ Constraints
   -1000 <= Node.val <= 1000
 ```
 
-```javasript
+```javascript
 ```
 
 
 ## [Add Binary](https://leetcode.com/problems/add-binary/)
+------
 ```
 Given two binary strings a and b, return their sum as a binary string.
 
@@ -128,10 +136,11 @@ Constraints
   Each string does not contain leading zeros except for the zero itself.
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Given read4 ii call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)
+------
 ```
 Given a file and assume that you can only read the file using a given method read4, implement a method read to read n characters. Your method read may be called multiple times.
 
@@ -172,11 +181,12 @@ Constraints
   1 <= queries[i] <= 500
 ```
 
-```javasript
+```javascript
 ```
 
 
 ## [Decode String](https://leetcode.com/problems/decode-string/)
+------
 ```
 Given an encoded string, return its decoded string.
 
@@ -214,10 +224,11 @@ Constraints
   All the integers in s are in the range [1, 300].
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+------
 ```
 You are given an m x n integer matrix grid where each cell is either 0 (empty) or 1 (obstacle). You can move up, down, left, or right from and to an empty cell in one step.
 
@@ -235,152 +246,173 @@ The shortest path with one obstacle elimination at position (3,2) is 6. Such pat
 
 ```
 
-```javasript
+```javascript
 ```
 
 ## [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Dot Product of Two Sparse Vector](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [LRU Cache](https://leetcode.com/problems/lru-cache/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Candy Crush](https://leetcode.com/problems/candy-crush/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [asteroid-collision](https://leetcode.com/problems/asteroid-collision/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [time-based-key-value-store](https://leetcode.com/problems/time-based-key-value-store/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [friend-circles]()
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Number of Provinces (optional?)](https://leetcode.com/problems/number-of-provinces/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [valid-parentheses](https://leetcode.com/problems/valid-parentheses/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [string-compression](https://leetcode.com/problems/string-compression/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [design-hit-counter](https://leetcode.com/discuss/interview-question/178662/Design-a-Hit-Counter/) [Google Onsite Version](https://leetcode.com/discuss/interview-question/615505/Google-or-Onsite-or-Design-Hit-Counter)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [logger-rate-limiter](https://leetcode.com/problems/logger-rate-limiter/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [number-of-distinct-islands](https://leetcode.com/problems/number-of-distinct-islands/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [design-hashmap](https://leetcode.com/problems/design-hashmap/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Game of Life](https://leetcode.com/problems/game-of-life/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
 
 ## [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+------
 ```
 ```
 
-```javasript
+```javascript
 ```
